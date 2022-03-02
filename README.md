@@ -1,4 +1,6 @@
-# FrontEnd-Mision
+# FrontEnd-Mision - practices Branch
+Dentro de esta branch estarán cargadas las prácticas correspondiente de los módulos
+
 
 ## Bienvenidos Explorers!
 
